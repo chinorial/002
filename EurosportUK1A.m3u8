@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:2
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTVLCOPT:network-caching=10000
+#EXTVLCOPT:http-reconnect=true
+#EXTINF:1,
+http://tv.cloudcdn.me:80/live.ts?channelId=272&uid=3037&deviceMac=00:1A:79:0A:3B:2B
