@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-MEDIA-SEQUENCE:2
+#EXT-X-TARGETDURATION:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:YES
+#EXTINF:1,
+http://tv.cloudcdn.me:80/live.ts?channelId=128705&uid=3037&deviceMac=00:1A:79:0A:3B:2B
+http://tv.cloudcdn.me:80/live.ts?channelId=128705&uid=15301&deviceMac=00:1A:79:1D:53:3F

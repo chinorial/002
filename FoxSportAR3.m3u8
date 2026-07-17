@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:0
+#EXT-X-MEDIA-SEQUENCE:1
+#EXTINF:1,
+http://foxbleu.pro:80/play/live.php?mac=00:1A:79:DC:77:6D&stream=283939&extension=ts&play_token=GCRB97MuJh

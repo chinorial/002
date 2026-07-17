@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXTINF:1,
+http://vvinnietv5.com:80/live/sherifalimustafinet/2HMCQMP/345926.ts
+#http://fortv.cc:8080/live/YzV70r/982003/1846.ts
