@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:1
+#EXT-X-MEDIA-SEQUENCE:1
+#EXT-X-TARGETDURATION:1
+#EXT-X-I-FRAMES-ONLY
+#EXT-X-DISCONTINUITY-SEQUENCE:2
+#EXT-X-ALLOW-CACHE:NO
+#EXTINF:1,
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1444075&extension=ts&play_token=MpIq9s7Rmf
